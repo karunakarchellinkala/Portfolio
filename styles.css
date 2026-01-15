@@ -319,7 +319,7 @@ body {
     transition: transform 0.3s ease;
 }
 
-.stat:hover {
+.stat: hover {
     transform: translateY(-5px);
 }
 
@@ -332,6 +332,8 @@ body {
 .stat p {
     color: #666;
     font-weight: 500;
+    color: #3498db;
+    align-text: center
 }
 
 /* Skills Section */
