@@ -334,8 +334,9 @@ body {
     color: #3498db;
     margin-bottom: 0.5rem;
     font-weight: 500;
-    align-text: center
+    text-align: center;
 }
+
 
 /* Skills Section */
 .skills {
