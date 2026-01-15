@@ -330,9 +330,10 @@ body {
 }
 
 .stat p {
-    color: #666;
-    font-weight: 500;
+    font-size: 2.5rem;
     color: #3498db;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
     align-text: center
 }
 
