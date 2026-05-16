@@ -224,8 +224,8 @@ body {
 .hero-image img {
     border-radius: 70%;  
     object-fit: cover;    
-    width: 350px;         
-    height: 350px;     
+    width: 330px;         
+    height: 330px;     
 }
 
 .profile-img {
