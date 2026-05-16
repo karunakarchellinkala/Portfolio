@@ -222,9 +222,10 @@ body {
 }
 
 .hero-image img {
-    width: 20%;       
-    max-width: 300px; 
-    height: auto;
+    border-radius: 70%;  
+    object-fit: cover;    
+    width: 350px;         
+    height: 350px;     
 }
 
 .profile-img {
