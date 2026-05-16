@@ -221,10 +221,10 @@ body {
     transform: translateY(-2px);
 }
 
-.hero-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.hero-image img {
+    width: 20%;       
+    max-width: 300px; 
+    height: auto;
 }
 
 .profile-img {
